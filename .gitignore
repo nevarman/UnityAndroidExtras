@@ -28,13 +28,13 @@ UnityAndroidExtras/UnityEclipsePlugin/gen
 UnityAndroidExtras/google-play-services_lib/bin
 UnityAndroidExtras/google-play-services_lib/gen
 
-UnityAndroidExtras/UnityProject/Library
-UnityAndroidExtras/UnityProject/Temp
-UnityAndroidExtras/UnityProject/*.csproj
-UnityAndroidExtras/UnityProject/*.unityproj
-UnityAndroidExtras/UnityProject/*.sln
-UnityAndroidExtras/UnityProject/*.suo
-UnityAndroidExtras/UnityProject/*.user
-UnityAndroidExtras/UnityProject/*.userprefs
-UnityAndroidExtras/UnityProject/*.pidb
-UnityAndroidExtras/UnityProject/*.booproj
+UnityProject/Library
+UnityProject/Temp
+UnityProject/*.csproj
+UnityProject/*.unityproj
+UnityProject/*.sln
+UnityProject/*.suo
+UnityProject/*.user
+UnityProject/*.userprefs
+UnityProject/*.pidb
+UnityProject/*.booproj
