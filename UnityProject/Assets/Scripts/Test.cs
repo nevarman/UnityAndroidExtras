@@ -26,5 +26,9 @@ public class Test : MonoBehaviour {
 		{
 			SocialPlugin.alert("Alert!");
 		}
+		if(GUI.Button(new Rect(10,260,100,50),"Open share intent"))
+		{
+			SocialPlugin.openShareIntent("Sharing stuff!");
+		}
 	}
 }

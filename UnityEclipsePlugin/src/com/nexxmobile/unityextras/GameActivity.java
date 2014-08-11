@@ -100,6 +100,14 @@ public class GameActivity extends UnityPlayerActivity {
 		});
 
 	}
+	public void openShareIntent(final String message)
+	{
+		Intent sharingIntent = new Intent(android.content.Intent.ACTION_SEND);
+		sharingIntent.setType("text/plain");
+		sharingIntent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Subject Here");
+		sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, message);
+		_activity.startActivity(sharingIntent);
+	}
 	public void alert(final String message) {
 		runOnUiThread(new Runnable() {
 			@Override

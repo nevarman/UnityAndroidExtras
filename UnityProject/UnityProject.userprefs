@@ -1,10 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../UnityAndroidInAppPurchase/UnityInAppBillingTutorial/UnityProject/Assets/Scripts/InAppTest.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Test.cs">
     <Files>
-      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="26" Column="1" />
-      <File FileName="Assets/Plugins/SocialPlugin.cs" Line="37" Column="3" />
-      <File FileName="../../UnityAndroidInAppPurchase/UnityInAppBillingTutorial/UnityProject/Assets/Scripts/InAppTest.cs" Line="10" Column="69" />
+      <File FileName="Assets/Plugins/SocialPlugin.cs" Line="51" Column="27" />
+      <File FileName="Assets/Scripts/Test.cs" Line="31" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

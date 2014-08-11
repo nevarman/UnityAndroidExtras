@@ -43,4 +43,12 @@ public class SocialPlugin : MonoBehaviour
 		jo.Call("alert",message);
 		#endif
 	}
+	public static void openShareIntent(string message)
+	{
+		#if !DEBUGMODE && UNITY_IOS
+		onSendScreenAnalytics(screen);
+		#elif !DEBUGMODE && UNITY_ANDROID
+		jo.Call("openShareIntent",message);
+		#endif
+	}
 }
