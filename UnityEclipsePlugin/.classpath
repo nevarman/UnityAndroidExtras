@@ -5,6 +5,6 @@
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
-	<classpathentry kind="lib" path="/Users/nevzatarman/Documents/Game Assets/classes.jar"/>
+	<classpathentry kind="lib" path="/Users/nevzatarman/Documents/classes.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
